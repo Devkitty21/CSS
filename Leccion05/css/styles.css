@@ -1,0 +1,15 @@
+body{
+    color: cornsilk;
+    /* background-color: dodgerblue;
+    background-image: url('/img/fondo.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed; */
+    /*Usando background simplificamos todas las opciones en una linea*/
+    background: dodgerblue url('/img/fondo.png') no-repeat right top;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    background-color: dodgerblue;
+}
